@@ -1,0 +1,32 @@
+_repo: Shifting-Sands_43773
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43773-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bassett, Sara Ware
+    birthdate: 1872
+    deathdate: 1968
+    gutenberg_agent_id: '2534'
+    url: http://www.gutenberg.org/2009/agents/2534
+    wikipedia: http://en.wikipedia.org/wiki/Sara_Ware_Bassett
+description: ''
+gutenberg_issued: '2013-09-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43773'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mystery fiction'
+- !lcc 'PS'
+- !lcsh 'New England -- Social life and customs -- 20th century -- Fiction'
+- !lcsh 'Widows -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Nieces -- Fiction'
+- !lcsh 'Cape Cod (Mass.) -- Fiction'
+title: Shifting Sands
+url: http://www.gutenberg.org/ebooks/43773
